@@ -3,7 +3,7 @@ a basic python tool to extract urls from dorks.
 
 # install the requirements : 
 
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 
 OR
 
