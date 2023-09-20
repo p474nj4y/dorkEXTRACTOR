@@ -1,2 +1,2 @@
-google
-pyfiglet
+google==3.0.0
+pyfiglet==0.8.post1
